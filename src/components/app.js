@@ -24,7 +24,7 @@ function App() {
         </div>
         <div id='footer'>
           <p>基于&nbsp;<Link to='https://uptimerobot.com/' text='UptimeRobot' />&nbsp;接口&nbsp;|&nbsp;检测频率&nbsp;5&nbsp;分钟</p>
-          <p>2020&nbsp;-&nbsp;2023&nbsp;©&nbsp;<Link to='https://www.somekey.cn/' text='干货助手' />&nbsp;|&nbsp;<Link to='https://hot.sapi.run/' text='今日热榜' /></p>
+          <p>2020&nbsp;-&nbsp;2023&nbsp;©&nbsp;<Link to='https://blog.0061226.xyz/' text='博客主页' />&nbsp;|&nbsp;<Link to='https://vercel.com/' text='网页托管' /></p>
         </div>
       </div>
     </>

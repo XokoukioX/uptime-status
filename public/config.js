@@ -1,12 +1,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '站点状态监测',
+  SiteName: "Kawakaze's Server Status",
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur2069252-aa5c86b65b57a5a6e7a176c2',
+    'ur1236529-cba583ce3028091870dc8a57',
   ],
 
   // 日志天数
@@ -19,11 +19,11 @@ window.Config = {
   Navi: [
     {
       text: '今日热榜',
-      url: 'https://hot.sapi.run'
+      url: 'https://hotspot.0061226.xyz/'
     },
     {
-      text: '源码下载',
-      url: 'https://github.com/mengkong6'
+      text: '博客主页',
+      url: 'https://blog.0061226.xyz/'
     },
   ],
 };
