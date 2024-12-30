@@ -25,5 +25,9 @@ window.Config = {
       text: '博客主页',
       url: 'https://blog.0061226.xyz/'
     },
+    {
+      text: 'IT工具',
+      url: 'https://toolbox.0061226.xyz/'
+    },
   ],
 };
